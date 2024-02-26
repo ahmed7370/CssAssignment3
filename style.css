@@ -1,0 +1,314 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+#main{
+
+    width: 100%;
+    height: 43px;
+    background-color:rgba(233, 231, 227, 0.205);
+    font-family: sans-serif;
+    position: sticky;
+    top: 0%;
+    
+    
+}
+
+.block1{
+ width: 10%;
+ display: inline-block;
+ margin-top: 12px;
+ margin-left: 17px;
+
+}
+
+.block1 a{
+
+    text-decoration: none;
+    color: black;
+       
+}
+
+.block2{
+width: 16%;
+float: right;
+margin-top: 13px;
+padding-left: 10px;
+}
+
+.block2 a{
+    text-decoration: none;
+    color: black;
+    padding: 0px 5px;
+}
+
+#container{
+width: 70%;
+height: 1900px;
+margin: 0 auto;
+}
+
+.box1{
+    width: 100%;
+    height: 480px;
+    background-image: url(buiding.jpg);
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+}
+
+.small{
+    width: 60px;
+    height: 40px;
+    background-color:black;
+    opacity: 70%;
+    color: white; 
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.small p{
+display: flex;
+font-size: 20px;
+}
+
+.box2{
+    width: 100%;
+    height: 55px;
+    background-color:white;
+    font-family: sans-serif;
+    margin-top: 40px;
+}
+
+.box3{
+    width: 100%;
+    height: 160px;         
+}
+
+
+.f1{
+    width: 217px;
+    height: 150px;
+    display: inline-block;
+    padding-left: 0%;
+    margin-right: 8px;
+    background-image: url(house3.jpg);
+    background-size: cover;
+
+}
+
+.line{
+    width: 100px;
+    height: 30px;
+
+}
+
+.f2{
+    width: 217px;
+    height: 150px;
+    display: inline-block;
+    margin-right: 8px;
+    background-image: url(house.jpg);
+    background-size: cover;
+}
+
+.line1{
+    width: 100px;
+    height: 30px;
+
+    
+}
+
+
+.f3{
+    width: 217px;
+    height: 150px;
+    display: inline-block;
+    margin-right: 8px;
+    background-image: url(hotel.jpg);
+    background-size: cover;
+}
+
+.line2{
+    width: 100px;
+    height: 30px;
+    background-color: black;
+}
+
+.f4{
+    width: 217px;
+    height: 150px;
+    display: inline-block;
+    background-image: url(house2.jpg);
+    background-size: cover;
+
+}
+
+.line3{
+    width: 100px;
+    height: 30px;
+    background-color: black;
+}
+
+
+
+
+
+
+.box4{
+    width: 100%;
+    height: 154px;         
+}
+
+
+.f5{
+    width: 217px;
+    height: 150px;
+    display: inline-block;
+    padding-left: 0%;
+    margin-right: 8px;
+    background-image: url(house.jpg);
+    background-size: cover;
+
+}
+
+.line{
+    width: 100px;
+    height: 30px;
+    background-color: black;
+}
+
+.f6{
+    width: 217px;
+    height: 150px;
+    display: inline-block;
+    margin-right: 8px;
+    background-image: url(house3.jpg);
+    background-size: cover;
+}
+
+.line1{
+    width: 100px;
+    height: 30px;
+    background-color: black;
+}
+
+
+.f7{
+    width: 217px;
+    height: 150px;
+    display: inline-block;
+    margin-right: 8px;
+    background-image: url(house2.jpg);
+    background-size: cover;
+   
+}
+
+.line2{
+    width: 100px;
+    height: 30px;
+    background-color: black;
+}
+
+.f8{
+    width: 217px;
+    height: 150px;
+    display: inline-block;
+    background-image: url(hotel.jpg);
+    background-size: cover;
+
+}
+
+.line3{
+    width: 100px;
+    height: 30px;
+    background-color: black;
+}
+
+.box5{
+    width: 100%;
+    height: 130px;
+    
+}
+
+.box5 p{
+margin-left: 20px;
+}
+
+.box6{
+    width: 100%;
+    height: 320px;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.p1{
+    width:220px;
+    height: 315px;
+   
+}
+.p2{
+    width:220px;
+    height:315px;
+    
+}
+.p3{
+    width:220px;
+    height:315px;
+   
+}
+.p4{
+    width:220px;
+    height:315px;
+}
+
+.pp1{
+    width: 100%;
+    height: 180px;
+
+    background-image: url(boy.jpg);
+    background-size: cover;
+}
+.pp2{
+    width: 100%;
+    height: 180px;
+
+    background-image: url(lady.jpg);
+    background-size: cover;
+}
+.pp3{
+    width: 100%;
+    height: 180px;
+
+    background-image: url(uncle.jpg);
+    background-size: cover;
+}
+.pp4{
+    width: 100%;
+    height: 180px;
+
+    background-image: url(glases\ boy.jpg);
+    background-size: cover;
+}
+
+.last{
+    width: 100%;
+    height: 500px;
+    background-color: black;
+
+    background-image: url(city.jpg);
+    background-size: cover;
+}
+
+.foot{
+    width: 100%;
+    height: 70px;
+    text-align: center;
+    padding: 22px  0px;
+}
